@@ -1,6 +1,6 @@
 # Macintosh Classic theme for iPhone OS 14.0
 ### iPhone OS 14用のMacintoshクラシックテーマ
-![About this iPhone](https://raw.githubusercontent.com/MisutaaUrufu/iOS-System-14-Theme/master/Light/Marketing/about.JPG)![Dock](https://raw.githubusercontent.com/MisutaaUrufu/iOS-System-14-Theme/master/Light/Marketing/dock.JPG)<br/><br/>
+![About this iPhone](https://raw.githubusercontent.com/MisutaaUrufu/iOS-System-14-Theme/master/Light/Marketing/about.JPG)![Dock](https://raw.githubusercontent.com/MisutaaUrufu/iOS-System-14-Theme/master/Light/Marketing/dock.png)<br/><br/>
 Macintosh Classic wallpaper, widget, and icon set for iPhone. Optimized for iPhone Xʀ.<br/>
 ###### iPhoneXʀ用に作られました。
 <br/>
