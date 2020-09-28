@@ -6,8 +6,8 @@ Macintosh Classic wallpaper, widget, and icon set for iPhone. Optimized for iPho
 <br/>
 
 ## Widget
-Add "About this Widget.js" to [Scriptable's](https://scriptable.app) directory in iCloud, or copy it's contents to a new script in [Scriptable](https://scriptable.app). Add 2x4 widget to home and set script to newly added widget script.<br/>
-###### 「About this Widget.js」をiCloudのScriptableのフォルダに追加するか、その内容をScriptable内の新しいスクリプトにコピーします。 2x4ウィジェットをホームに追加し、スクリプトを新しく追加されたウィジェットスクリプトに設定します。
+Add "[About this Widget.js](https://github.com/MisutaaUrufu/iOS-System-14-Theme/blob/master/Light/Scriptable/About%20This%20Widget.js)" to [Scriptable's](https://scriptable.app) directory in iCloud, or copy it's contents to a new script in [Scriptable](https://scriptable.app). Add 2x4 widget to home and set script to newly added widget script.<br/>
+###### 「[About this Widget.js](https://github.com/MisutaaUrufu/iOS-System-14-Theme/blob/master/Light/Scriptable/About%20This%20Widget.js)」をiCloudの[Scriptable](https://scriptable.app)のフォルダに追加するか、その内容を[Scriptable](https://scriptable.app)内の新しいスクリプトにコピーします。 2x4ウィジェットをホームに追加し、スクリプトを新しく追加されたウィジェットスクリプトに設定します。
 <br/>
 
 ## Icons
