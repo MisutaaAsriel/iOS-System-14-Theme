@@ -13,3 +13,6 @@ Add "[About this Widget.js](https://github.com/MisutaaUrufu/iOS-System-14-Theme/
 ## Icons
 Save desired icons to photos, and create shortcuts using Siri Shortcuts to launch the apps. Use "_Dock" icons for apps stored in the dock.<br/>
 ###### アイコンを写真に保存し、ショートカットアプリを使用して、ホームに追加してアプリを起動できるショートカットを作成します。ドックに保存されているアプリには「_Dock」アイコンを使用します。
+<br/>
+
+###### Translation assisted by Google Translate. Google翻訳によって部分的に翻訳されています。
