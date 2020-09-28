@@ -1,6 +1,6 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
-// icon-color: light-gray; icon-glyph: microchip;ß
+// icon-color: light-gray; icon-glyph: microchip;
 
 let bgImage = await getImage("https://raw.githubusercontent.com/MisutaaUrufu/iOS-System-14-Theme/master/Light/Scriptable/graphics/Classic/Light/widget.png")
 let widget = await createWidget()
@@ -20,6 +20,8 @@ function buildInterface() {
 	let bg = bgImage
 	let context = new DrawContext()
 	
+	context.respectScreenScale = false
+	
 	let os = Device.systemName()
 	let ver = Device.systemVersion()
 	let dev = Device.model()
@@ -36,8 +38,6 @@ function buildInterface() {
 	}
 	
 	let rec = new Rect(0, 0, 1024, 482)
-	
-	context.respectScreenScale = true
 	
 	context.size = new Size(1024, 482)
 	
