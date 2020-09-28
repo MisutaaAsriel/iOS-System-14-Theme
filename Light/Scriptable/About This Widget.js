@@ -1,37 +1,23 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
-// icon-color: purple; icon-glyph: newspaper;
-// The script shows the latest article
-// from MacStories in a widget on your
-// Home screen. Go to your Home screen
-// to set up the script in a widget.
-// The script will present a preview
-// of the widget when running in the
-// app.
+// icon-color: light-gray; icon-glyph: microchip;ß
+
+let bgImage = await getImage("https://raw.githubusercontent.com/MisutaaUrufu/iOS-System-14-Theme/master/Light/Scriptable/graphics/Classic/Light/widget.png")
 let widget = await createWidget()
+
 // Check if the script is running in
 // a widget. If not, show a preview of
 // the widget to easier debug it.
 if (!config.runsInWidget) {
   await widget.presentMedium()
 }
+
 // Tell the system to show the widget.
 Script.setWidget(widget)
 Script.complete()
 
-function getBackground() {
-	let files = FileManager.iCloud()
-	let documents = files.documentsDirectory()
-	let backgroundPath = documents + "/graphics/Classic/Light/widget.png"
-	
-	if (files.downloadFileFromiCloud(backgroundPath) != null) {
-		let b = files.readImage(backgroundPath)
-		return b
-	}
-}
-
 function buildInterface() {
-	let bg = getBackground()
+	let bg = bgImage
 	let context = new DrawContext()
 	
 	let os = Device.systemName()
@@ -45,7 +31,7 @@ function buildInterface() {
 	
 	let pStat = "Charger is not connected."
 	
-	if (Device.isCharging()) {
+	if (!Device.isDischarging() || Device.isCharging()) {
 		pStat = "Charger is connected."
 	}
 	
@@ -81,6 +67,11 @@ function buildInterface() {
 	
 	let img = context.getImage()
 	return img
+}
+
+async function getImage(url) {
+	let req = new Request(url)
+	return await req.loadImage()
 }
 
 async function createWidget() {
