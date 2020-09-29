@@ -23,7 +23,7 @@ First, [install Charcoal font via configuration profile](https://github.com/Misu
 <br/>
 
 ## Icons
-Save [desired icons](https://github.com/MisutaaUrufu/iOS-System-14-Theme/tree/master/Files/Icons) to photos, and create shortcuts using Siri Shortcuts to launch the apps. Use "_Dock" icons for apps stored in the dock *ONLY in dark mode*.<br/>
+Save [desired icons](https://github.com/MisutaaUrufu/iOS-System-14-Theme/tree/master/Files/Icons) to photos, and create shortcuts using Siri Shortcuts to launch the apps. Use "_Dock" icons for apps stored in the dock *ONLY in dark mode*. — [See this walkthrough for more details.](https://www.macrumors.com/how-to/change-app-icons/)<br/>
 ###### [アイコン](https://github.com/MisutaaUrufu/iOS-System-14-Theme/tree/master/Files/Icons)を写真に保存し、ショートカットアプリを使用して、家に追加してアプリを起動できるショートカットを作成します。ダークモードでのみドックに保存されるアプリには、「_ドック」アイコンを使用します。
 <br/>
 
