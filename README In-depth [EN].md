@@ -45,7 +45,7 @@
     * It will prompt to allow you to install a profile. Tap `allow` then `ok`.
     * Open system settings, and navigate to `General` then `Profiles`.
     * Tap the Charcoal font profile at the top of the screen and follow the steps on screen to finish installation.
-        * ###### _Note: iOS will warn that this profile is unsigned. This is **okay**. Unsigned just means it wasn't created by a verified signing authority, and therefore cannot verify its origin. This is standard with custom, user-generated profiles._<br/><br/>
+        * ###### _Note: iOS will warn that this profile is unsigned. This is **okay**. Unsigned just means it wasn't signed by a verified signing authority, and therefore cannot verify its origin. This is standard with custom, user-generated profiles._<br/><br/>
 2. Install [Scriptable<sup>(link)</sup>](https://scriptable.app).
 3. Open **Files** and navigate to Scriptable's home directory (_It will have the Scriptable icon on it_).
     * If Scriptable is configured to use iCloud, this will be under **iCloud Drive**.
