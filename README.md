@@ -1,4 +1,4 @@
-#### [&#128279;View Files](https://github.com/MisutaaUrufu/iOS-System-14-Theme/tree/master/Files) • [&#128279;Widget Instructions](#widget)<br/>
+#### [&#128279;View Files](https://github.com/MisutaaUrufu/iOS-System-14-Theme/tree/master/Files) • [&#128279;Widget Instructions](#widget) • [&#128279;In-Depth Instructions (English)](https://github.com/MisutaaUrufu/iOS-System-14-Theme/blob/master/README%20In-depth%20%5BEN%5D.md)<br/>
 
 ###### Update 3: Changed directory structure. "Light" folder remains for compatibility with widget.
 ###### Update 2: Patched Widget for Display Bug, added light wallpaper. Thank you, [&#128279;Patty](https://twitter.com/adamsandlerfanx), for the assistance.<br/>
