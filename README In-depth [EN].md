@@ -13,6 +13,7 @@
         * [Light Mode<sup>(link)</sup>](https://github.com/MisutaaUrufu/iOS-System-14-Theme/raw/master/Files/Background_Xʀ_Light.png)
         * [Dark Mode<sup>(link)</sup>](https://github.com/MisutaaUrufu/iOS-System-14-Theme/raw/master/Files/Background_Xʀ.png)<br/><br/>
 2. Open the image in Photos, tap share, and set the image as your **Home Screen**.
+    * Set it with **No Perspective**.
 
 *****
 
